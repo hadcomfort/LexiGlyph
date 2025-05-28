@@ -1,0 +1,4 @@
+{
+  "name": "LexiGlyph Web",
+  "description": "A web application for crafting, managing, and orchestrating incantations (prompts) for generative AI models, with features for tagging, sorting, import/export, and interaction with AI services like OpenRouter."
+}
